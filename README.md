@@ -13,3 +13,10 @@
 - [ ] Registers and Counters
 - [x] Combinationals Multipliers
 - [x] Booth's  Multipliers
+- [ ] Arithmetic logic Unit
+- [ ] Memory design
+- [ ] Associative Cache design
+- [ ] Direct Mapped cache design
+- [ ] CPU design
+- [ ] Karnaugh Map
+- [ ] Quine - Mc Clusky algorithm
