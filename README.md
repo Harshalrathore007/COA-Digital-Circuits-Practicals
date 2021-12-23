@@ -10,7 +10,7 @@
 - [x] RS Flip-Flop
 - [x] T Flip-Flop
 - [x] JK Flip-Flop Master-Slave
-- [ ] Registers and Counters
+- [x] Registers and Counters
 - [x] Combinationals Multipliers
 - [x] Booth's  Multipliers
 - [ ] Arithmetic logic Unit
